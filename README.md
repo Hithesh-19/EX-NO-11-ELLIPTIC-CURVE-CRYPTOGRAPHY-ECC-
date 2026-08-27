@@ -24,7 +24,7 @@ To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
 
 ## Program:
-```python
+```C
 #include <stdio.h>
 
 // Structure for a point
